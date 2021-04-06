@@ -9,10 +9,15 @@ we have the data sets in "Data_Set/Data_Set" folder
 folder structure
 
 ---->Data_Set
+
 ----|--->Data_Set
+
 ----|--->Images
+
 ---->index.html
+
 ---->readme.md
+
 ---->script.py
 
 run "pip install opencv-python" to install opencv library
